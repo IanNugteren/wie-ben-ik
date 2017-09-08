@@ -17,3 +17,12 @@ body {
 	background-size: cover;
 
 }
+
+img {
+	height: 250px;
+	width: 250px; 
+	float: center;
+	position: fixed;
+	right: 500px;
+	top: 300px;
+}
